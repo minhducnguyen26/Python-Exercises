@@ -27,7 +27,6 @@ Good luck and have fun!
 # that allows you to write tests for your code (here I use it to test your code)
 import unittest
 
-
 # I then import the function that you need to implement to this test file
 # so that I can test it
 from start_here import return_magic_number

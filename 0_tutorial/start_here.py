@@ -18,9 +18,8 @@ When you're done, run the 'test.py' file to see if your implementation is correc
 In this folder, you will go to 'then_finish_here.py' and follow the instructions there.
 '''
 
+
 # This is an example of a function that you need to implement
 # For this function specifically, you need to return the number 42
-
-
 def return_magic_number() -> int:
     pass  # TODO: Delete this line and implement the function
